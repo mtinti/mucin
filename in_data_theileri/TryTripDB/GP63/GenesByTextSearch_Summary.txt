@@ -1,0 +1,201 @@
+Gene ID	source_id	Organism	Genomic Location (Gene)	Product Description	Found in	Score	
+TM35_000016340	TM35_000016340-t36_1	T. theileri isolate Edinburgh	NBCO01000001:1,362,860..1,364,512(+)	surface protease GP63	Product	1	
+TM35_000016360	TM35_000016360-t36_1	T. theileri isolate Edinburgh	NBCO01000001:1,366,015..1,367,550(+)	putative surface protease GP63	Product	1	
+TM35_000021490	TM35_000021490-t36_1	T. theileri isolate Edinburgh	NBCO01000002:129,917..130,852(-)	surface protease GP63	Product	1	
+TM35_000021510	TM35_000021510-t36_1	T. theileri isolate Edinburgh	NBCO01000002:133,107..135,770(-)	surface protease GP63	Product	1	
+TM35_000022110	TM35_000022110-t36_1	T. theileri isolate Edinburgh	NBCO01000002:330,899..332,599(-)	putative surface protease GP63	Product	1	
+TM35_000024010	TM35_000024010-t36_1	T. theileri isolate Edinburgh	NBCO01000002:820,886..822,394(-)	surface protease GP63	Product	1	
+TM35_000024020	TM35_000024020-t36_1	T. theileri isolate Edinburgh	NBCO01000002:823,119..823,736(-)	surface protease GP63	Product	1	
+TM35_000044260	TM35_000044260-t36_1	T. theileri isolate Edinburgh	NBCO01000004:734,871..736,205(-)	putative surface protease GP63	Product	1	
+TM35_000044470	TM35_000044470-t36_1	T. theileri isolate Edinburgh	NBCO01000004:781,585..784,509(-)	surface protease GP63	Product	1	
+TM35_000053690	TM35_000053690-t36_1	T. theileri isolate Edinburgh	NBCO01000005:732,586..734,514(+)	surface protease GP63	Product	1	
+TM35_000061080	TM35_000061080-t36_1	T. theileri isolate Edinburgh	NBCO01000006:34,241..35,950(+)	putative surface protease GP63	Product	1	
+TM35_000065040	TM35_000065040-t36_1	T. theileri isolate Edinburgh	NBCO01000006:943,118..944,662(+)	surface protease GP63	Product	1	
+TM35_000065050	TM35_000065050-t36_1	T. theileri isolate Edinburgh	NBCO01000006:948,310..950,238(+)	surface protease GP63	Product	1	
+TM35_000065060	TM35_000065060-t36_1	T. theileri isolate Edinburgh	NBCO01000006:950,276..951,940(+)	surface protease GP63	Product	1	
+TM35_000065070	TM35_000065070-t36_1	T. theileri isolate Edinburgh	NBCO01000006:954,715..956,901(+)	surface protease GP63	Product	1	
+TM35_000074630	TM35_000074630-t36_1	T. theileri isolate Edinburgh	NBCO01000007:810,794..813,121(+)	surface protease GP63	Product	1	
+TM35_000074640	TM35_000074640-t36_1	T. theileri isolate Edinburgh	NBCO01000007:818,142..819,626(+)	surface protease GP63	Product	1	
+TM35_000084720	TM35_000084720-t36_1	T. theileri isolate Edinburgh	NBCO01000008:904,490..906,292(+)	putative surface protease GP63	Product	1	
+TM35_000093510	TM35_000093510-t36_1	T. theileri isolate Edinburgh	NBCO01000009:660,890..662,428(+)	surface protease GP63	Product	1	
+TM35_000102510	TM35_000102510-t36_1	T. theileri isolate Edinburgh	NBCO01000010:466,112..467,299(+)	surface protease GP63	Product	1	
+TM35_000102520	TM35_000102520-t36_1	T. theileri isolate Edinburgh	NBCO01000010:467,380..468,720(+)	putative surface protease GP63, putative	Product	1	
+TM35_000102530	TM35_000102530-t36_1	T. theileri isolate Edinburgh	NBCO01000010:470,226..470,969(+)	surface protease GP63	Product	1	
+TM35_000102540	TM35_000102540-t36_1	T. theileri isolate Edinburgh	NBCO01000010:473,988..475,733(+)	surface protease GP63	Product	1	
+TM35_000102550	TM35_000102550-t36_1	T. theileri isolate Edinburgh	NBCO01000010:477,505..479,421(+)	surface protease GP63	Product	1	
+TM35_000102650	TM35_000102650-t36_1	T. theileri isolate Edinburgh	NBCO01000010:490,841..491,899(+)	surface protease GP63	Product	1	
+TM35_000102860	TM35_000102860-t36_1	T. theileri isolate Edinburgh	NBCO01000010:548,363..550,318(-)	surface protease GP63	Product	1	
+TM35_000102870	TM35_000102870-t36_1	T. theileri isolate Edinburgh	NBCO01000010:551,161..552,099(-)	surface protease GP63	Product	1	
+TM35_000112100	TM35_000112100-t36_1	T. theileri isolate Edinburgh	NBCO01000011:264,231..265,508(-)	putative surface protease GP63	Product	1	
+TM35_000112260	TM35_000112260-t36_1	T. theileri isolate Edinburgh	NBCO01000011:301,223..303,100(-)	surface protease GP63	Product	1	
+TM35_000112410	TM35_000112410-t36_1	T. theileri isolate Edinburgh	NBCO01000011:327,160..328,689(-)	putative surface protease GP63	Product	1	
+TM35_000112420	TM35_000112420-t36_1	T. theileri isolate Edinburgh	NBCO01000011:329,974..331,779(-)	putative surface protease GP63	Product	1	
+TM35_000113140	TM35_000113140-t36_1	T. theileri isolate Edinburgh	NBCO01000011:499,303..500,058(+)	surface protease GP63	Product	1	
+TM35_000113240	TM35_000113240-t36_1	T. theileri isolate Edinburgh	NBCO01000011:519,724..521,502(+)	surface protease GP63	Product	1	
+TM35_000113250	TM35_000113250-t36_1	T. theileri isolate Edinburgh	NBCO01000011:521,573..522,502(+)	surface protease GP63	Product	1	
+TM35_000113450	TM35_000113450-t36_1	T. theileri isolate Edinburgh	NBCO01000011:570,859..572,544(+)	surface protease GP63	Product	1	
+TM35_000113480	TM35_000113480-t36_1	T. theileri isolate Edinburgh	NBCO01000011:579,573..580,091(+)	putative surface protease GP63	Product	1	
+TM35_000113490	TM35_000113490-t36_1	T. theileri isolate Edinburgh	NBCO01000011:580,493..581,212(+)	putative surface protease GP63	Product	1	
+TM35_000113500	TM35_000113500-t36_1	T. theileri isolate Edinburgh	NBCO01000011:584,507..586,093(+)	putative surface protease GP63	Product	1	
+TM35_000113610	TM35_000113610-t36_1	T. theileri isolate Edinburgh	NBCO01000011:609,096..609,614(+)	surface protease GP63	Product	1	
+TM35_000113640	TM35_000113640-t36_1	T. theileri isolate Edinburgh	NBCO01000011:616,654..617,070(+)	putative surface protease GP63	Product	1	
+TM35_000113650	TM35_000113650-t36_1	T. theileri isolate Edinburgh	NBCO01000011:619,207..619,779(+)	surface protease GP63	Product	1	
+TM35_000121000	TM35_000121000-t36_1	T. theileri isolate Edinburgh	NBCO01000012:1,609..3,555(-)	surface protease GP63	Product	1	
+TM35_000121010	TM35_000121010-t36_1	T. theileri isolate Edinburgh	NBCO01000012:5,152..7,560(-)	putative surface protease GP63	Product	1	
+TM35_000121030	TM35_000121030-t36_1	T. theileri isolate Edinburgh	NBCO01000012:10,943..12,979(-)	surface protease GP63	Product	1	
+TM35_000121040	TM35_000121040-t36_1	T. theileri isolate Edinburgh	NBCO01000012:13,852..15,990(-)	surface protease GP63	Product	1	
+TM35_000121820	TM35_000121820-t36_1	T. theileri isolate Edinburgh	NBCO01000012:189,306..189,899(-)	putative surface protease GP63	Product	1	
+TM35_000121830	TM35_000121830-t36_1	T. theileri isolate Edinburgh	NBCO01000012:189,997..191,025(-)	putative surface protease GP63	Product	1	
+TM35_000121860	TM35_000121860-t36_1	T. theileri isolate Edinburgh	NBCO01000012:194,644..195,273(-)	surface protease GP63	Product	1	
+TM35_000121870	TM35_000121870-t36_1	T. theileri isolate Edinburgh	NBCO01000012:198,839..199,933(-)	putative surface protease GP63	Product	1	
+TM35_000132470	TM35_000132470-t36_1	T. theileri isolate Edinburgh	NBCO01000013:389,788..390,585(-)	putative surface protease GP63	Product	1	
+TM35_000132480	TM35_000132480-t36_1	T. theileri isolate Edinburgh	NBCO01000013:393,539..394,564(-)	surface protease GP63	Product	1	
+TM35_000133140	TM35_000133140-t36_1	T. theileri isolate Edinburgh	NBCO01000013:540,334..541,206(+)	surface protease GP63	Product	1	
+TM35_000133260	TM35_000133260-t36_1	T. theileri isolate Edinburgh	NBCO01000013:565,449..567,566(+)	surface protease GP63	Product	1	
+TM35_000141390	TM35_000141390-t36_1	T. theileri isolate Edinburgh	NBCO01000014:89,153..90,352(-)	surface protease GP63	Product	1	
+TM35_000141400	TM35_000141400-t36_1	T. theileri isolate Edinburgh	NBCO01000014:94,806..95,792(-)	surface protease GP63	Product	1	
+TM35_000141410	TM35_000141410-t36_1	T. theileri isolate Edinburgh	NBCO01000014:96,870..99,128(-)	putative surface protease GP63	Product	1	
+TM35_000141420	TM35_000141420-t36_1	T. theileri isolate Edinburgh	NBCO01000014:99,822..100,334(-)	putative surface protease GP63	Product	1	
+TM35_000153170	TM35_000153170-t36_1	T. theileri isolate Edinburgh	NBCO01000015:540,002..541,882(+)	surface protease GP63	Product	1	
+TM35_000162940	TM35_000162940-t36_1	T. theileri isolate Edinburgh	NBCO01000016:494,980..497,028(+)	surface protease GP63	Product	1	
+TM35_000172210	TM35_000172210-t36_1	T. theileri isolate Edinburgh	NBCO01000017:264,978..265,571(-)	putative surface protease GP63, putative	Product	1	
+TM35_000173250	TM35_000173250-t36_1	T. theileri isolate Edinburgh	NBCO01000017:492,676..495,027(+)	surface protease GP63	Product	1	
+TM35_000192140	TM35_000192140-t36_1	T. theileri isolate Edinburgh	NBCO01000019:305,362..307,131(+)	surface protease GP63	Product	1	
+TM35_000192150	TM35_000192150-t36_1	T. theileri isolate Edinburgh	NBCO01000019:307,331..307,735(+)	surface protease GP63	Product	1	
+TM35_000192160	TM35_000192160-t36_1	T. theileri isolate Edinburgh	NBCO01000019:309,647..310,057(+)	surface protease GP63	Product	1	
+TM35_000192170	TM35_000192170-t36_1	T. theileri isolate Edinburgh	NBCO01000019:311,604..313,403(+)	surface protease GP63	Product	1	
+TM35_000211050	TM35_000211050-t36_1	T. theileri isolate Edinburgh	NBCO01000021:16,201..17,421(-)	surface protease GP63	Product	1	
+TM35_000232140	TM35_000232140-t36_1	T. theileri isolate Edinburgh	NBCO01000023:290,794..292,434(+)	surface protease GP63	Product	1	
+TM35_000241440	TM35_000241440-t36_1	T. theileri isolate Edinburgh	NBCO01000024:117,055..118,431(-)	surface protease GP63	Product	1	
+TM35_000241450	TM35_000241450-t36_1	T. theileri isolate Edinburgh	NBCO01000024:119,503..120,882(-)	surface protease GP63	Product	1	
+TM35_000241760	TM35_000241760-t36_1	T. theileri isolate Edinburgh	NBCO01000024:206,112..207,416(-)	surface protease GP63	Product	1	
+TM35_000241770	TM35_000241770-t36_1	T. theileri isolate Edinburgh	NBCO01000024:207,556..208,179(-)	surface protease GP63	Product	1	
+TM35_000241780	TM35_000241780-t36_1	T. theileri isolate Edinburgh	NBCO01000024:208,948..210,501(-)	surface protease GP63	Product	1	
+TM35_000242340	TM35_000242340-t36_1	T. theileri isolate Edinburgh	NBCO01000024:347,298..349,016(+)	surface protease GP63	Product	1	
+TM35_000242350	TM35_000242350-t36_1	T. theileri isolate Edinburgh	NBCO01000024:349,728..351,665(+)	surface protease GP63	Product	1	
+TM35_000242780	TM35_000242780-t36_1	T. theileri isolate Edinburgh	NBCO01000024:453,020..455,038(-)	surface protease GP63	Product	1	
+TM35_000251730	TM35_000251730-t36_1	T. theileri isolate Edinburgh	NBCO01000025:217,571..218,239(-)	putative surface protease GP63	Product	1	
+TM35_000262480	TM35_000262480-t36_1	T. theileri isolate Edinburgh	NBCO01000026:422,474..423,418(-)	surface protease GP63	Product	1	
+TM35_000262510	TM35_000262510-t36_1	T. theileri isolate Edinburgh	NBCO01000026:441,593..442,150(-)	surface protease GP63	Product	1	
+TM35_000262530	TM35_000262530-t36_1	T. theileri isolate Edinburgh	NBCO01000026:445,843..446,271(-)	putative surface protease GP63, putative	Product	1	
+TM35_000271380	TM35_000271380-t36_1	T. theileri isolate Edinburgh	NBCO01000027:100,969..101,946(-)	surface protease GP63	Product	1	
+TM35_000271390	TM35_000271390-t36_1	T. theileri isolate Edinburgh	NBCO01000027:102,594..103,736(-)	putative surface protease GP63	Product	1	
+TM35_000271400	TM35_000271400-t36_1	T. theileri isolate Edinburgh	NBCO01000027:107,289..108,314(-)	putative surface protease GP63	Product	1	
+TM35_000291010	TM35_000291010-t36_1	T. theileri isolate Edinburgh	NBCO01000029:6,796..8,724(-)	surface protease GP63	Product	1	
+TM35_000311020	TM35_000311020-t36_1	T. theileri isolate Edinburgh	NBCO01000031:7,856..8,212(+)	putative surface protease GP63, putative	Product	1	
+TM35_000311030	TM35_000311030-t36_1	T. theileri isolate Edinburgh	NBCO01000031:9,441..10,991(+)	surface protease GP63	Product	1	
+TM35_000311050	TM35_000311050-t36_1	T. theileri isolate Edinburgh	NBCO01000031:15,719..16,660(+)	surface protease GP63	Product	1	
+TM35_000311060	TM35_000311060-t36_1	T. theileri isolate Edinburgh	NBCO01000031:19,855..22,518(+)	surface protease GP63	Product	1	
+TM35_000311070	TM35_000311070-t36_1	T. theileri isolate Edinburgh	NBCO01000031:23,492..25,702(+)	surface protease GP63	Product	1	
+TM35_000322230	TM35_000322230-t36_1	T. theileri isolate Edinburgh	NBCO01000032:357,289..359,442(+)	surface protease GP63	Product	1	
+TM35_000322270	TM35_000322270-t36_1	T. theileri isolate Edinburgh	NBCO01000032:369,677..371,560(+)	surface protease GP63	Product	1	
+TM35_000331800	TM35_000331800-t36_1	T. theileri isolate Edinburgh	NBCO01000033:174,971..176,530(-)	putative surface protease GP63	Product	1	
+TM35_000331860	TM35_000331860-t36_1	T. theileri isolate Edinburgh	NBCO01000033:203,504..205,483(-)	putative surface protease GP63	Product	1	
+TM35_000361940	TM35_000361940-t36_1	T. theileri isolate Edinburgh	NBCO01000036:269,714..270,340(+)	surface protease GP63	Product	1	
+TM35_000361950	TM35_000361950-t36_1	T. theileri isolate Edinburgh	NBCO01000036:272,320..273,543(+)	putative surface protease GP63, putative	Product	1	
+TM35_000361960	TM35_000361960-t36_1	T. theileri isolate Edinburgh	NBCO01000036:275,019..276,548(+)	surface protease GP63	Product	1	
+TM35_000362060	TM35_000362060-t36_1	T. theileri isolate Edinburgh	NBCO01000036:295,032..297,344(+)	surface protease GP63	Product	1	
+TM35_000362070	TM35_000362070-t36_1	T. theileri isolate Edinburgh	NBCO01000036:298,509..300,965(+)	putative surface protease GP63, putative	Product	1	
+TM35_000362090	TM35_000362090-t36_1	T. theileri isolate Edinburgh	NBCO01000036:302,117..304,537(+)	surface protease GP63	Product	1	
+TM35_000362100	TM35_000362100-t36_1	T. theileri isolate Edinburgh	NBCO01000036:305,900..307,624(+)	surface protease GP63	Product	1	
+TM35_000362110	TM35_000362110-t36_1	T. theileri isolate Edinburgh	NBCO01000036:308,702..311,179(+)	surface protease GP63	Product	1	
+TM35_000362120	TM35_000362120-t36_1	T. theileri isolate Edinburgh	NBCO01000036:312,200..314,590(+)	putative surface protease GP63, putative	Product	1	
+TM35_000362130	TM35_000362130-t36_1	T. theileri isolate Edinburgh	NBCO01000036:315,646..317,973(+)	surface protease GP63	Product	1	
+TM35_000371300	TM35_000371300-t36_1	T. theileri isolate Edinburgh	NBCO01000037:84,665..84,973(+)	surface protease GP63	Product	1	
+TM35_000381990	TM35_000381990-t36_1	T. theileri isolate Edinburgh	NBCO01000038:289,505..292,276(+)	surface protease GP63	Product	1	
+TM35_000382000	TM35_000382000-t36_1	T. theileri isolate Edinburgh	NBCO01000038:293,757..295,742(+)	surface protease GP63	Product	1	
+TM35_000391000	TM35_000391000-t36_1	T. theileri isolate Edinburgh	NBCO01000039:6,458..8,422(-)	surface protease GP63	Product	1	
+TM35_000391010	TM35_000391010-t36_1	T. theileri isolate Edinburgh	NBCO01000039:10,157..12,742(-)	surface protease GP63	Product	1	
+TM35_000391020	TM35_000391020-t36_1	T. theileri isolate Edinburgh	NBCO01000039:13,196..13,783(-)	surface protease GP63	Product	1	
+TM35_000431970	TM35_000431970-t36_1	T. theileri isolate Edinburgh	NBCO01000043:225,840..226,796(+)	surface protease GP63	Product	1	
+TM35_000431980	TM35_000431980-t36_1	T. theileri isolate Edinburgh	NBCO01000043:226,934..229,174(+)	surface protease GP63	Product	1	
+TM35_000441540	TM35_000441540-t36_1	T. theileri isolate Edinburgh	NBCO01000044:140,869..142,554(+)	putative surface protease GP63	Product	1	
+TM35_000441550	TM35_000441550-t36_1	T. theileri isolate Edinburgh	NBCO01000044:144,168..144,668(+)	surface protease GP63	Product	1	
+TM35_000461010	TM35_000461010-t36_1	T. theileri isolate Edinburgh	NBCO01000046:5,639..6,847(-)	surface protease GP63	Product	1	
+TM35_000461020	TM35_000461020-t36_1	T. theileri isolate Edinburgh	NBCO01000046:7,803..10,328(-)	surface protease GP63	Product	1	
+TM35_000461030	TM35_000461030-t36_1	T. theileri isolate Edinburgh	NBCO01000046:10,728..12,305(-)	surface protease GP63	Product	1	
+TM35_000461080	TM35_000461080-t36_1	T. theileri isolate Edinburgh	NBCO01000046:21,852..23,135(-)	putative surface protease GP63	Product	1	
+TM35_000461100	TM35_000461100-t36_1	T. theileri isolate Edinburgh	NBCO01000046:24,292..26,541(-)	surface protease GP63	Product	1	
+TM35_000461110	TM35_000461110-t36_1	T. theileri isolate Edinburgh	NBCO01000046:27,757..29,307(-)	surface protease GP63	Product	1	
+TM35_000461120	TM35_000461120-t36_1	T. theileri isolate Edinburgh	NBCO01000046:33,092..34,330(-)	surface protease GP63	Product	1	
+TM35_000461740	TM35_000461740-t36_1	T. theileri isolate Edinburgh	NBCO01000046:165,240..165,602(+)	surface protease GP63	Product	1	
+TM35_000461750	TM35_000461750-t36_1	T. theileri isolate Edinburgh	NBCO01000046:166,458..169,097(+)	surface protease GP63	Product	1	
+TM35_000541310	TM35_000541310-t36_1	T. theileri isolate Edinburgh	NBCO01000054:63,148..65,550(-)	surface protease GP63	Product	1	
+TM35_000541320	TM35_000541320-t36_1	T. theileri isolate Edinburgh	NBCO01000054:66,583..68,844(-)	surface protease GP63	Product	1	
+TM35_000541330	TM35_000541330-t36_1	T. theileri isolate Edinburgh	NBCO01000054:69,974..72,385(-)	surface protease GP63	Product	1	
+TM35_000541340	TM35_000541340-t36_1	T. theileri isolate Edinburgh	NBCO01000054:73,270..75,312(-)	surface protease GP63	Product	1	
+TM35_000541360	TM35_000541360-t36_1	T. theileri isolate Edinburgh	NBCO01000054:80,072..81,184(-)	putative surface protease GP63, putative	Product	1	
+TM35_000541370	TM35_000541370-t36_1	T. theileri isolate Edinburgh	NBCO01000054:82,733..83,662(-)	putative surface protease GP63, putative	Product	1	
+TM35_000541380	TM35_000541380-t36_1	T. theileri isolate Edinburgh	NBCO01000054:83,675..84,952(-)	surface protease GP63	Product	1	
+TM35_000541390	TM35_000541390-t36_1	T. theileri isolate Edinburgh	NBCO01000054:85,900..87,231(-)	surface protease GP63	Product	1	
+TM35_000611040	TM35_000611040-t36_1	T. theileri isolate Edinburgh	NBCO01000061:23,526..23,990(+)	putative surface protease GP63	Product	1	
+TM35_000611050	TM35_000611050-t36_1	T. theileri isolate Edinburgh	NBCO01000061:27,298..27,927(+)	surface protease GP63	Product	1	
+TM35_000611060	TM35_000611060-t36_1	T. theileri isolate Edinburgh	NBCO01000061:53,503..53,979(+)	surface protease GP63	Product	1	
+TM35_000611080	TM35_000611080-t36_1	T. theileri isolate Edinburgh	NBCO01000061:59,026..59,505(+)	surface protease GP63	Product	1	
+TM35_000631230	TM35_000631230-t36_1	T. theileri isolate Edinburgh	NBCO01000063:54,377..56,947(+)	putative surface protease GP63	Product	1	
+TM35_000631240	TM35_000631240-t36_1	T. theileri isolate Edinburgh	NBCO01000063:57,792..60,251(+)	surface protease GP63	Product	1	
+TM35_000701010	TM35_000701010-t36_1	T. theileri isolate Edinburgh	NBCO01000070:1,415..3,427(+)	surface protease GP63	Product	1	
+TM35_000701030	TM35_000701030-t36_1	T. theileri isolate Edinburgh	NBCO01000070:4,736..7,042(+)	surface protease GP63	Product	1	
+TM35_000701040	TM35_000701040-t36_1	T. theileri isolate Edinburgh	NBCO01000070:9,187..10,605(+)	putative surface protease GP63, putative	Product	1	
+TM35_000701050	TM35_000701050-t36_1	T. theileri isolate Edinburgh	NBCO01000070:11,259..13,868(+)	surface protease GP63	Product	1	
+TM35_000701110	TM35_000701110-t36_1	T. theileri isolate Edinburgh	NBCO01000070:38,375..41,209(+)	surface protease GP63	Product	1	
+TM35_000701120	TM35_000701120-t36_1	T. theileri isolate Edinburgh	NBCO01000070:41,865..43,241(+)	surface protease GP63	Product	1	
+TM35_000701130	TM35_000701130-t36_1	T. theileri isolate Edinburgh	NBCO01000070:44,696..46,507(+)	putative surface protease GP63	Product	1	
+TM35_000701140	TM35_000701140-t36_1	T. theileri isolate Edinburgh	NBCO01000070:52,228..54,876(+)	surface protease GP63	Product	1	
+TM35_000701150	TM35_000701150-t36_1	T. theileri isolate Edinburgh	NBCO01000070:55,535..58,279(+)	surface protease GP63	Product	1	
+TM35_000711000	TM35_000711000-t36_1	T. theileri isolate Edinburgh	NBCO01000071:3,267..3,902(+)	putative surface protease GP63, putative	Product	1	
+TM35_000711030	TM35_000711030-t36_1	T. theileri isolate Edinburgh	NBCO01000071:10,788..11,399(+)	putative surface protease GP63	Product	1	
+TM35_000711060	TM35_000711060-t36_1	T. theileri isolate Edinburgh	NBCO01000071:19,309..20,142(+)	surface protease GP63	Product	1	
+TM35_000711080	TM35_000711080-t36_1	T. theileri isolate Edinburgh	NBCO01000071:24,545..26,125(+)	putative surface protease GP63	Product	1	
+TM35_000711100	TM35_000711100-t36_1	T. theileri isolate Edinburgh	NBCO01000071:38,505..38,990(+)	putative surface protease GP63, putative	Product	1	
+TM35_000831090	TM35_000831090-t36_1	T. theileri isolate Edinburgh	NBCO01000083:30,459..31,703(-)	surface protease GP63	Product	1	
+TM35_000831100	TM35_000831100-t36_1	T. theileri isolate Edinburgh	NBCO01000083:37,509..38,042(-)	surface protease GP63	Product	1	
+TM35_000851030	TM35_000851030-t36_1	T. theileri isolate Edinburgh	NBCO01000085:4,695..5,105(+)	surface protease GP63	Product	1	
+TM35_000851040	TM35_000851040-t36_1	T. theileri isolate Edinburgh	NBCO01000085:7,369..9,291(+)	putative surface protease GP63	Product	1	
+TM35_000851050	TM35_000851050-t36_1	T. theileri isolate Edinburgh	NBCO01000085:10,943..12,913(+)	surface protease GP63	Product	1	
+TM35_000851060	TM35_000851060-t36_1	T. theileri isolate Edinburgh	NBCO01000085:15,017..16,237(+)	surface protease GP63	Product	1	
+TM35_000871010	TM35_000871010-t36_1	T. theileri isolate Edinburgh	NBCO01000087:8,282..8,719(+)	surface protease GP63	Product	1	
+TM35_000871050	TM35_000871050-t36_1	T. theileri isolate Edinburgh	NBCO01000087:21,560..21,952(+)	putative surface protease GP63, putative	Product	1	
+TM35_000911000	TM35_000911000-t36_1	T. theileri isolate Edinburgh	NBCO01000091:3..911(+)	surface protease GP63	Product	1	
+TM35_000971060	TM35_000971060-t36_1	T. theileri isolate Edinburgh	NBCO01000097:25,048..27,834(-)	surface protease GP63	Product	1	
+TM35_000971070	TM35_000971070-t36_1	T. theileri isolate Edinburgh	NBCO01000097:28,387..29,655(-)	putative surface protease GP63, putative	Product	1	
+TM35_001011030	TM35_001011030-t36_1	T. theileri isolate Edinburgh	NBCO01000101:14,409..16,271(-)	surface protease GP63	Product	1	
+TM35_001011040	TM35_001011040-t36_1	T. theileri isolate Edinburgh	NBCO01000101:17,315..17,989(-)	putative surface protease GP63	Product	1	
+TM35_001011060	TM35_001011060-t36_1	T. theileri isolate Edinburgh	NBCO01000101:22,034..22,732(-)	surface protease GP63	Product	1	
+TM35_001011070	TM35_001011070-t36_1	T. theileri isolate Edinburgh	NBCO01000101:24,118..24,429(-)	putative surface protease GP63	Product	1	
+TM35_001011090	TM35_001011090-t36_1	T. theileri isolate Edinburgh	NBCO01000101:25,610..25,969(-)	putative surface protease GP63	Product	1	
+TM35_001071000	TM35_001071000-t36_1	T. theileri isolate Edinburgh	NBCO01000107:9..734(+)	surface protease GP63	Product	1	
+TM35_001071020	TM35_001071020-t36_1	T. theileri isolate Edinburgh	NBCO01000107:5,056..7,413(+)	surface protease GP63	Product	1	
+TM35_001071030	TM35_001071030-t36_1	T. theileri isolate Edinburgh	NBCO01000107:8,411..11,005(+)	putative surface protease GP63, putative	Product	1	
+TM35_001071040	TM35_001071040-t36_1	T. theileri isolate Edinburgh	NBCO01000107:12,891..15,377(+)	putative surface protease GP63, putative	Product	1	
+TM35_001071060	TM35_001071060-t36_1	T. theileri isolate Edinburgh	NBCO01000107:16,516..18,792(+)	surface protease GP63	Product	1	
+TM35_001171040	TM35_001171040-t36_1	T. theileri isolate Edinburgh	NBCO01000117:18,994..19,473(-)	putative surface protease GP63	Product	1	
+TM35_001171060	TM35_001171060-t36_1	T. theileri isolate Edinburgh	NBCO01000117:22,224..22,976(-)	surface protease GP63	Product	1	
+TM35_001201090	TM35_001201090-t36_1	T. theileri isolate Edinburgh	NBCO01000120:16,180..18,114(-)	surface protease GP63	Product	1	
+TM35_001211030	TM35_001211030-t36_1	T. theileri isolate Edinburgh	NBCO01000121:14,336..16,129(-)	surface protease GP63	Product	1	
+TM35_001211040	TM35_001211040-t36_1	T. theileri isolate Edinburgh	NBCO01000121:16,258..17,295(-)	surface protease GP63	Product	1	
+TM35_001241000	TM35_001241000-t36_1	T. theileri isolate Edinburgh	NBCO01000124:1..321(+)	surface protease GP63	Product	1	
+TM35_001241020	TM35_001241020-t36_1	T. theileri isolate Edinburgh	NBCO01000124:8,906..9,553(+)	surface protease GP63	Product	1	
+TM35_001241030	TM35_001241030-t36_1	T. theileri isolate Edinburgh	NBCO01000124:13,529..15,262(+)	surface protease GP63	Product	1	
+TM35_001251020	TM35_001251020-t36_1	T. theileri isolate Edinburgh	NBCO01000125:13,765..15,603(-)	surface protease GP63	Product	1	
+TM35_001291010	TM35_001291010-t36_1	T. theileri isolate Edinburgh	NBCO01000129:4,698..5,192(-)	surface protease GP63	Product	1	
+TM35_001291020	TM35_001291020-t36_1	T. theileri isolate Edinburgh	NBCO01000129:5,912..6,781(-)	surface protease GP63	Product	1	
+TM35_001321020	TM35_001321020-t36_1	T. theileri isolate Edinburgh	NBCO01000132:3,555..5,699(-)	surface protease GP63	Product	1	
+TM35_001321030	TM35_001321030-t36_1	T. theileri isolate Edinburgh	NBCO01000132:8,240..10,240(-)	surface protease GP63	Product	1	
+TM35_001321040	TM35_001321040-t36_1	T. theileri isolate Edinburgh	NBCO01000132:15,660..17,189(-)	surface protease GP63	Product	1	
+TM35_001341010	TM35_001341010-t36_1	T. theileri isolate Edinburgh	NBCO01000134:4,505..6,676(-)	surface protease GP63	Product	1	
+TM35_001361000	TM35_001361000-t36_1	T. theileri isolate Edinburgh	NBCO01000136:8,013..9,977(-)	surface protease GP63	Product	1	
+TM35_001361010	TM35_001361010-t36_1	T. theileri isolate Edinburgh	NBCO01000136:12,191..13,195(-)	surface protease GP63	Product	1	
+TM35_001361020	TM35_001361020-t36_1	T. theileri isolate Edinburgh	NBCO01000136:13,971..14,600(-)	putative surface protease GP63	Product	1	
+TM35_001441000	TM35_001441000-t36_1	T. theileri isolate Edinburgh	NBCO01000144:815..1,504(+)	putative surface protease GP63	Product	1	
+TM35_001441010	TM35_001441010-t36_1	T. theileri isolate Edinburgh	NBCO01000144:2,000..3,124(+)	surface protease GP63	Product	1	
+TM35_001441030	TM35_001441030-t36_1	T. theileri isolate Edinburgh	NBCO01000144:6,975..8,936(+)	putative surface protease GP63	Product	1	
+TM35_001511000	TM35_001511000-t36_1	T. theileri isolate Edinburgh	NBCO01000151:3..374(+)	surface protease GP63	Product	1	
+TM35_001511020	TM35_001511020-t36_1	T. theileri isolate Edinburgh	NBCO01000151:8,758..10,302(+)	surface protease GP63	Product	1	
+TM35_001651000	TM35_001651000-t36_1	T. theileri isolate Edinburgh	NBCO01000165:16..927(+)	surface protease GP63	Product	1	
+TM35_001651020	TM35_001651020-t36_1	T. theileri isolate Edinburgh	NBCO01000165:5,404..6,141(+)	putative surface protease GP63, putative	Product	1	
+TM35_001651030	TM35_001651030-t36_1	T. theileri isolate Edinburgh	NBCO01000165:7,687..8,142(+)	putative surface protease GP63, putative	Product	1	
+TM35_001661000	TM35_001661000-t36_1	T. theileri isolate Edinburgh	NBCO01000166:1,749..3,158(+)	surface protease GP63	Product	1	
+TM35_002511000	TM35_002511000-t36_1	T. theileri isolate Edinburgh	NBCO01000251:28..1,062(-)	surface protease GP63	Product	1	
+TM35_002691000	TM35_002691000-t36_1	T. theileri isolate Edinburgh	NBCO01000269:1..557(-)	surface protease GP63	Product	1	
+TM35_002861000	TM35_002861000-t36_1	T. theileri isolate Edinburgh	NBCO01000286:1..1,465(-)	surface protease GP63	Product	1	
